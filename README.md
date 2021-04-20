@@ -1,3 +1,6 @@
 # ep1
-This is a first effort to create awareness to the possibilities of data science.
-It includes some some basic exploratory analytics followed by the applying the pycaret package using the Titanic dataset.
+This file includes:
+Dataset: Titanic.csv
+GoogleColab notebook: Basic exploratory analytics followed by use of pycaret
+
+This project was created in order to demystify data science to non data scientists
